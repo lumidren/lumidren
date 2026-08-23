@@ -1,24 +1,36 @@
 <div align="center">
 
-  <a href="https://github.com/lumidren">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=LUMIDREN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Operations%20%7C%20SOC%20Automation%20%7C%20Offensive%20Security%20%7C%20Software%20Engineering&descAlignY=62&descSize=18&descColor=38bdf8" width="100%" />
-  </a>
+```text
+  ██╗     ██╗   ██╗███╗   ███╗██╗██████╗ ██████╗ ███████╗███╗   ██╗
+  ██║     ██║   ██║████╗ ████║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║
+  ██║     ██║   ██║██╔████╔██║██║██║  ██║██████╔╝█████╗  ██╔██╗ ██║
+  ██║     ██║   ██║██║╚██╔╝██║██║██║  ██║██╔══██╗██╔══╝  ██║╚██╗██║
+  ███████╗╚██████╔╝██║ └──═╝██║██║██████╔╝██║  ██║███████╗██║ ╚████║
+  ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝══════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+```
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/lumidren/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/lumidren?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:contact@lumidren.dev">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <code><strong>[ SYSTEM ARCHITECTURE: CYBER OPERATIONS // THREAT INTEL // OFFENSIVE RECON ]</strong></code>
   </p>
 
   <p align="center">
     <a href="https://github.com/lumidren">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cyber+Operations+%26+Autonomous+SOC+Pipelines;Detection+Engineering+%26+MITRE+ATT%26CK+Framework;Threat+Intelligence+(STIX+2.1+%2B+Custom+Cryptography);External+Attack+Surface+Management+%26+OSINT;Full-Stack+Engineering+%26+Interactive+3D+Systems" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=750&lines=root%40lumidren-soc%3A~%23+nmap+-sC+-sV+--script%3Dvuln+target.corp;root%40lumidren-soc%3A~%23+wazuh-agent+-t+T1003.001+-a+HOST_ISOLATE+%5B%3C5s%5D;root%40lumidren-soc%3A~%23+python3+cipher_engine.py+--encrypt+blowfish-cbc+--stix2.1;root%40lumidren-soc%3A~%23+shadowsurface+-d+target.com+--passive-crtsh;%5BSTATUS%5D+AUTONOMOUS+SOC+PIPELINE+ACTIVE+%E2%80%A2+ZERO-TOUCH+DEFENSE+ENGAGED" alt="Terminal Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lumidren/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/lumidren?tab=repositories">
+      <img src="https://img.shields.io/badge/REPOSITORIES-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:contact@lumidren.dev">
+      <img src="https://img.shields.io/badge/PGP_ENCRYPTED_EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/lumidren">
+      <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5-00FF66?style=flat-square" alt="Clearance" />
     </a>
   </p>
 
@@ -26,23 +38,23 @@
 
 ---
 
-## 👨‍💻 Executive Summary & About Me
+### 🖥️ `neofetch --user lumidren`
 
-I am a **Cybersecurity Engineer and Software Developer** specializing in **Cyber Operations (CyberOps)**, **Autonomous SOC Automation**, **Threat Intelligence Engineering**, and **Offensive Reconnaissance**.
-
-I design end-to-end security architectures that dramatically shrink adversary dwell time and Mean Time to Respond (MTTR) — shifting enterprise defense from reactive manual triage to **real-time, zero-touch autonomous containment**.
-
-```yaml
-lumidren:
-  education: Egypt-Japan University of Science and Technology (E-JUST)
-  disciplines:
-    - Cyber Operations & SOC Automation (Blue Team)
-    - Penetration Testing, EASM & OSINT (Red / Purple Team)
-    - Applied Cryptography & Threat Intelligence (CTI)
-    - Full-Stack & 3D Web Systems (React / Three.js / Flask)
-  core_frameworks: [MITRE ATT&CK, NIST CSF, OWASP Top 10, STIX 2.1, PTES]
-  primary_stack: [Python, PowerShell, Bash, JavaScript, Docker, Wazuh, Shuffle]
-  status: "Engineering high-assurance automated security architectures"
+```bash
+               .,-:;//+++/++/:.-.              USER        : lumidren
+           :+++++++++++++++++++++++/`          HOST        : E-JUST Cyber-Range [Egypt-Japan Univ of Sci & Tech]
+         /+++++++++++++++++++++++++++/         KERNEL      : CyberOps / Autonomous IR / Detection Engineering
+       `+++++++++++++++++++++++++++++++`       SHELL       : /bin/zsh (Wazuh SIEM, Shuffle SOAR, Python, CTI)
+      .+++++++++++++++++++++++++++++++++       FRAMEWORKS  : MITRE ATT&CK • NIST CSF • OWASP Top 10 • STIX 2.1
+     `+++++++++++++++++++++++++++++++++++`     CORE_CIPHER : Blowfish-CBC (256-bit) / Custom CTI Graph Models
+     /+++++++++++++++++++++++++++++++++++/     PRIMARY_EXP : Zero-Touch Incident Containment & EASM Discovery
+     /+++++++++++++++++++++++++++++++++++/     ACTIVE_IPS  : 127.0.0.1 (Loopback Preserved on Quarantine)
+     `+++++++++++++++++++++++++++++++++++`     UPTIME      : 24/7/365 Continuous Threat Validation
+      .+++++++++++++++++++++++++++++++++       STATUS      : OPERATIONAL [Threat Hunting & Pipeline Automation]
+       `+++++++++++++++++++++++++++++++`
+         /+++++++++++++++++++++++++++/
+           :+++++++++++++++++++++++/`
+               .,-:;//+++/++/:.-.
 ```
 
 ---
@@ -268,8 +280,6 @@ lumidren:
 
 ## 🤝 Let's Connect & Collaborate
 
-I am always interested in discussing **Security Operations**, **Detection Engineering**, **Autonomous Incident Response**, and **Advanced Software Development**.
-
 <div align="center">
 
   <a href="https://www.linkedin.com/in/lumidren/">
@@ -289,6 +299,5 @@ I am always interested in discussing **Security Operations**, **Detection Engine
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=100&section=footer" width="100%" />
-  <sub>⚡ Designed & Maintained by <a href="https://www.linkedin.com/in/lumidren/">Lumidren</a> • Egypt-Japan University of Science and Technology (E-JUST)</sub>
+  <sub><code>[ root@lumidren-secops ] :: SYSTEM_INTEGRITY=SECURE :: © Lumidren • E-JUST</code></sub>
 </div>

@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/lumidren">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=38BDF8&center=false&vCenter=true&width=650&lines=%E2%86%92+SOC+Analyst+T1+%7C+Incident+Detection+%26+Response;%E2%86%92+Enterprise+Banking+SOC+Intern+%40+CIB+Egypt;%E2%86%92+SIEM+Engineering+%28Splunk%2C+QRadar%2C+FortiSIEM%29;%E2%86%92+XAI+for+IoT+Behavioral+Anomaly+Detection;%E2%86%92+Pure+Python+Cryptography+%28ChaCha20+%2B+ElGamal%29" alt="Typing Prompt" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=38BDF8&center=false&vCenter=true&width=650&lines=%E2%86%92+SOC+Analyst+T1+%7C+Incident+Detection+%26+Response;%E2%86%92+Enterprise+Banking+SOC+Intern+%40+CIB+Egypt;%E2%86%92+SIEM+Engineering+%28Splunk%2C+QRadar%2C+FortiSIEM%29;%E2%86%92+XAI+for+IoT+Behavioral+Anomaly+Detection;%E2%86%92+Creator+of+Crystal+Collector+3D+(Three.js+%2B+React)" alt="Typing Prompt" />
   </a>
 </p>
 
@@ -21,13 +21,13 @@
 
 > [!NOTE]
 > **Cybersecurity & Networks undergraduate** at Egypt-Japan University of Science and Technology (EJUST, '27).  
-> Focused on Blue Team operations, detection engineering, threat intelligence, and applied cryptography. Formerly interned in live enterprise banking SOC operations at **CIB Egypt**.
+> Focused on Blue Team operations, detection engineering, threat intelligence, and systems programming. Formerly interned in live enterprise banking SOC operations at **CIB Egypt**.
 
 ---
 
-### 🔬 Projects & Research
+### 🔬 Projects & Engineering
 
-#### [CIPHER](https://github.com/lumidren) — SOC Threat Intelligence Platform
+#### [CIPHER](https://github.com/lumidren/CIPHER) — SOC Threat Intelligence Platform
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
@@ -35,11 +35,27 @@
 ![Blowfish](https://img.shields.io/badge/Encryption-Blowfish-0284c7?style=flat-square)
 
 A full-stack threat intelligence platform built to assist analysts with IOC enrichment and adversary campaign tracking.
-* **Architecture:** Flask backend exposing REST endpoints; modular vanilla JS frontend.
-* **Enrichment:** Automated IP, domain, and hash reputation scoring via **VirusTotal** and **AbuseIPDB** APIs.
-* **Data Standards:** Native **STIX 2.1** JSON export for seamless threat sharing with external MISP/TIP systems.
+* **Architecture:** Flask REST API backend paired with a modular vanilla JS frontend.
+* **Enrichment:** Automated IP, domain, and hash reputation scoring via **VirusTotal** and **AbuseIPDB** endpoints.
+* **Data Standards:** Native **STIX 2.1** JSON export for seamless intelligence sharing with external MISP/TIP systems.
 * **Visualization:** Interactive **D3.js** force-directed graph mapping relationships between indicators, threat actors, and infrastructure.
 * **Storage:** Secured cached threat intelligence at rest using **Blowfish** symmetric block cipher.
+
+<br>
+
+#### [Crystal Collector 2.0](https://github.com/lumidren/crystal-collector) — 3D Cyberpunk Arcade Platformer
+![Three.js](https://img.shields.io/badge/Three.js-r182-black?style=flat-square&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WebGL](https://img.shields.io/badge/WebGL-60_FPS-00ff9d?style=flat-square)
+![Electron](https://img.shields.io/badge/Electron-Windows%20App-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+A high-performance 3D cyberpunk arcade platformer with procedural environments, companion kinematics, and boss mechanics ([Live Web Demo](https://3dcrystalcollector.netlify.app/)).
+* **Graphics & Engine:** Built with **Three.js** and **React** utilizing custom shaders, atmospheric lighting, and an optimized 60 FPS WebGL render loop.
+* **World Generation:** 10 procedural sci-fi biomes across a 76×76 arena with multi-tier vertical sky islands.
+* **Companion Kinematics:** Articulated 3D cyber companions (Robo-Pup with 4-legged trotting kinematics, Cyber Falcon) with real-time platform surface snapping and distance attraction physics.
+* **Boss System & Speedrunning:** State-machine driven Crystal Titan guardian encounter and precision S-Rank speedrun timers.
+* **Cross-Platform:** Packaged for web deployment and standalone native desktop execution via **Electron**.
 
 <br>
 
@@ -88,8 +104,8 @@ Hands-on investigation of 50+ enterprise attack scenarios across virtualized lab
 | :--- | :--- |
 | **SIEM & Monitoring** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white) ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-C82127?style=flat-square&logo=fortinet&logoColor=white) ![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-C82127?style=flat-square&logo=fortinet&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
 | **Network & Telemetry** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Snort](https://img.shields.io/badge/Snort_IDS-211A4F?style=flat-square&logo=snort&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `EVE-NG` |
-| **Languages & Tooling** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Systems & Platforms** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) `Active Directory` |
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Systems & Platforms** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) `Active Directory` |
 | **Networking Protocols**| `TCP/IP` `Subnetting (VLSM)` `802.1Q VLANs` `OSPF` `BGP` `NAT` `IPSec VPN` `Dynamic ACLs` `AAA/RADIUS` |
 | **Security Frameworks** | `MITRE ATT&CK` `Cyber Kill Chain` `Diamond Model` `STIX 2.1` `Digital Forensics` |
 

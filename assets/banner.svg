@@ -1,0 +1,65 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0b1528" />
+      <stop offset="100%" stop-color="#04070e" />
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9d" />
+      <stop offset="50%" stop-color="#00d2ff" />
+      <stop offset="100%" stop-color="#3a7bd5" />
+    </linearGradient>
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9d" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00d2ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3a7bd5" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00d2ff" stroke-width="0.5" stroke-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="200" rx="12" fill="url(#bg-grad)" />
+  <rect width="900" height="200" rx="12" fill="url(#cyber-grid)" />
+
+  <!-- Outer Cyber Border -->
+  <rect x="2" y="2" width="896" height="196" rx="10" fill="none" stroke="#00d2ff" stroke-width="1.2" stroke-opacity="0.3" />
+
+  <!-- Corner Brackets -->
+  <path d="M 8 30 L 8 8 L 30 8" fill="none" stroke="#00ff9d" stroke-width="2.5" />
+  <path d="M 892 30 L 892 8 L 870 8" fill="none" stroke="#00ff9d" stroke-width="2.5" />
+  <path d="M 8 170 L 8 192 L 30 192" fill="none" stroke="#00ff9d" stroke-width="2.5" />
+  <path d="M 892 170 L 892 192 L 870 192" fill="none" stroke="#00ff9d" stroke-width="2.5" />
+
+  <!-- Center Decorative Glow Line -->
+  <line x1="150" y1="130" x2="750" y2="130" stroke="url(#glow-line)" stroke-width="1.5" />
+
+  <!-- Top Status Indicator -->
+  <circle cx="40" cy="35" r="4" fill="#00ff9d" />
+  <text x="52" y="39" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="11" font-weight="600" fill="#00ff9d" letter-spacing="1.5">SYSTEM ACTIVE // BLUE TEAM OPS</text>
+  
+  <text x="855" y="39" text-anchor="end" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.5">ID: LUMIDREN</text>
+
+  <!-- Main Name Title -->
+  <text x="450" y="95" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="38" font-weight="800" fill="url(#accent-cyan)" letter-spacing="3">MUSTAFA AHMED GOMAA</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="14" font-weight="600" fill="#94a3b8" letter-spacing="2.5">SOC ANALYST T1  •  BLUE TEAM OPERATIONS  •  DETECTION &amp; RESPONSE</text>
+
+  <!-- Cyber Badges / Pills -->
+  <g transform="translate(245, 150)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="120" height="24" rx="12" fill="#0b1b33" stroke="#00d2ff" stroke-width="1" stroke-opacity="0.4" />
+    <text x="60" y="16" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#38bdf8" letter-spacing="1">SIEM TUNING</text>
+
+    <!-- Pill 2 -->
+    <rect x="135" y="0" width="140" height="24" rx="12" fill="#0b1b33" stroke="#00ff9d" stroke-width="1" stroke-opacity="0.4" />
+    <text x="205" y="16" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#4ade80" letter-spacing="1">THREAT HUNTING</text>
+
+    <!-- Pill 3 -->
+    <rect x="290" y="0" width="120" height="24" rx="12" fill="#0b1b33" stroke="#00d2ff" stroke-width="1" stroke-opacity="0.4" />
+    <text x="350" y="16" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#38bdf8" letter-spacing="1">XAI ANOMALY</text>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
-﻿<!-- HEADER BANNER -->
+﻿<!-- HEADER BANNER (SELF-HOSTED LOCAL SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0D1F2D,100:00B4D8&height=220&section=header&text=MUSTAFA%20AHMED%20GOMAA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20T1%20%7C%20Blue%20Team%20Operations%20%7C%20Incident%20Detection%20%26%20Response&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Mustafa Ahmed Gomaa" />
+  <img src="assets/banner.svg" alt="Mustafa Ahmed Gomaa - SOC Analyst" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING TERMINAL -->
@@ -260,9 +260,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0D1F2D,100:090D16&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <sub><b>STATUS:</b> DEFENSES ACTIVE // <b>TERMINAL:</b> SECURE // <b>CLEARANCE:</b> LEVEL-1 BLUE TEAM</sub>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%2F%2F%20DEFENSES%20ACTIVE-00FF9D?style=for-the-badge&logo=shield" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--1%20BLUE%20TEAM-00B4D8?style=for-the-badge&logo=target" alt="Clearance" />
 </p>

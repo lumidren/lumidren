@@ -116,7 +116,6 @@ Tier-1 SOC monitoring, alert triage, and log analysis in a live enterprise banki
 
 ## 📜 Certifications & training
 
-- **Fortinet** — FortiSIEM, FortiAnalyzer *(2026)*
 - **TryHackMe** — SOC Level 1, Security Engineer paths *(2026)*
 - **Cisco** — Cybersecurity Engineer (DEPI, 2025), CyberOps Associate (NTI, 2025), CCNP ENCOR (NTI, 2025), CCNA (NTI, 2023)
 - **Other** — Vulnerability Analyst & Penetration Tester (DEPI) · HCIA Security (Huawei/NTI) · Ethical Hacking (NTI)

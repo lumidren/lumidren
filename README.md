@@ -1,137 +1,131 @@
-﻿# Mustafa Ahmed Gomaa (`lumidren`)
+<!-- ===================================================================== -->
+<!--  lumidren · GitHub profile README                                     -->
+<!--  Paste this into  github.com/lumidren/lumidren  as README.md          -->
+<!-- ===================================================================== -->
 
-<p align="left">
-  <a href="https://github.com/lumidren">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=38BDF8&center=false&vCenter=true&width=650&lines=%E2%86%92+SOC+Analyst+T1+%7C+Incident+Detection+%26+Response;%E2%86%92+Enterprise+Banking+SOC+Intern+%40+CIB+Egypt;%E2%86%92+SIEM+Engineering+%28Splunk%2C+QRadar%2C+FortiSIEM%29;%E2%86%92+XAI+for+IoT+Behavioral+Anomaly+Detection;%E2%86%92+Creator+of+Crystal+Collector+3D+(Three.js+%2B+React)" alt="Typing Prompt" />
-  </a>
+<div align="center">
+
+<a href="https://github.com/lumidren">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=38BDAE&center=true&vCenter=true&width=720&lines=Mustafa+Ahmed+Gomaa;Cybersecurity+%26+Networks+Undergraduate;Blue+Team+%7C+Detection+Engineering+%7C+Threat+Intel;Systems+Programmer+who+ships+in+Rust" alt="typing banner" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/lumidren"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/MustafaGomaa"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:mustafagomaa.edu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lumidren&style=for-the-badge&color=38BDAE&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lumidren/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com/p/MustafaGomaa" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-A22846?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-  <a href="mailto:mustafagomaa.edu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lumidren&label=PROFILE%20VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
-</p>
-
-> [!NOTE]
-> **Cybersecurity & Networks undergraduate** at Egypt-Japan University of Science and Technology (EJUST, '27).  
-> Focused on Blue Team operations, detection engineering, threat intelligence, and systems programming. Formerly interned in live enterprise banking SOC operations at **CIB Egypt**.
+</div>
 
 ---
 
-### 🔬 Projects & Engineering
+## 👋 About me
 
-#### [CIPHER](https://github.com/lumidren/CIPHER) — SOC Threat Intelligence Platform
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![STIX 2.1](https://img.shields.io/badge/STIX-2.1-blueviolet?style=flat-square)
-![Blowfish](https://img.shields.io/badge/Encryption-Blowfish-0284c7?style=flat-square)
+Cybersecurity & Networks undergraduate at **Egypt-Japan University of Science and Technology (EJUST)**, class of **2027**. I work the **Blue Team** side of security — detection engineering, threat intelligence, and SOC operations — and I like to build the tools I wish existed, usually in **Python** or **Rust**.
 
-A full-stack threat intelligence platform built to assist analysts with IOC enrichment and adversary campaign tracking.
-* **Architecture:** Flask REST API backend paired with a modular vanilla JS frontend.
-* **Enrichment:** Automated IP, domain, and hash reputation scoring via **VirusTotal** and **AbuseIPDB** endpoints.
-* **Data Standards:** Native **STIX 2.1** JSON export for seamless intelligence sharing with external MISP/TIP systems.
-* **Visualization:** Interactive **D3.js** force-directed graph mapping relationships between indicators, threat actors, and infrastructure.
-* **Storage:** Secured cached threat intelligence at rest using **Blowfish** symmetric block cipher.
+- 🛡️ Previously a **SOC Summer Intern at CIB Egypt**, triaging live alerts in an enterprise banking SOC
+- 🔭 Currently building a **SIEM/SOAR automation pipeline** and shipping desktop tooling in Rust
+- 🎓 Undergraduate thesis on **explainable IoT anomaly detection**
+- 📫 Reach me at **mustafagomaa.edu@gmail.com**
 
-<br>
+---
 
-#### [Crystal Collector 2.0](https://github.com/lumidren/crystal-collector) — 3D Cyberpunk Arcade Platformer
-![Three.js](https://img.shields.io/badge/Three.js-r182-black?style=flat-square&logo=threedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebGL](https://img.shields.io/badge/WebGL-60_FPS-00ff9d?style=flat-square)
-![Electron](https://img.shields.io/badge/Electron-Windows%20App-47848F?style=flat-square&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
+## 🚀 Featured projects
 
-A high-performance 3D cyberpunk arcade platformer with procedural environments, companion kinematics, and boss mechanics ([Live Web Demo](https://3dcrystalcollector.netlify.app/)).
-* **Graphics & Engine:** Built with **Three.js** and **React** utilizing custom shaders, atmospheric lighting, and an optimized 60 FPS WebGL render loop.
-* **World Generation:** 10 procedural sci-fi biomes across a 76×76 arena with multi-tier vertical sky islands.
-* **Companion Kinematics:** Articulated 3D cyber companions (Robo-Pup with 4-legged trotting kinematics, Cyber Falcon) with real-time platform surface snapping and distance attraction physics.
-* **Boss System & Speedrunning:** State-machine driven Crystal Titan guardian encounter and precision S-Rank speedrun timers.
-* **Cross-Platform:** Packaged for web deployment and standalone native desktop execution via **Electron**.
+### 🖐️ [Pady](https://github.com/lumidren/Pady) — *the trackpad gestures Windows forgot to ship*
+> **Your touchpad, finally awake.** `v1.0.0`
 
-<br>
+A free, open-source gesture engine for **Windows & Linux**, written in **Rust + Tauri 2**. Maps 33 three-, four-, and five-finger gestures — taps, swipes, pinches, holds, and drags — to any action you choose, with per-app profiles and starter presets.
 
-#### GUARDIAN — Explainable IoT Anomaly Detection
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Isolation Forest](https://img.shields.io/badge/ML-Isolation%20Forest-10b981?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-NLG%20Summaries-8b5cf6?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Deploy-Raspberry%20Pi%204-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+- ⚡ **Zero idle CPU** and ~56 µs median lift-to-action latency — threads sleep until touch data arrives
+- 🎛️ Keyboard shortcuts, media/volume/brightness, app launching, shell commands, three-finger drag, copy/paste pinch
+- 🧩 Per-app profiles, live touchpad view, first-run tutorial, hot-reloaded **TOML** config, and **signed auto-updates**
+- 🔒 **No telemetry, no accounts, no ads** — the only network call is an optional release check
+- 🧪 ~260 unit tests + fuzzing, CI on Windows & Ubuntu with `cargo audit`
 
-*Undergraduate Thesis: Explainable Behavioral Identity for IoT Security Monitoring.*
-* **Detection Engine:** Unsupervised **Isolation Forest** model trained on **60 statistical network features** extracted per 10-second sliding window.
-* **Edge Target:** Profiled and optimized for lightweight deployment on a **Raspberry Pi 4** edge tap.
-* **Explainability:** Implemented a rule-guided Natural Language Generation (NLG) module that converts multi-feature anomaly vectors into concise, readable summaries for Tier-1 analysts rather than raw floating-point anomaly scores.
-* **Mitigation:** Graduated enforcement tiers (packet throttling, VLAN quarantine, dynamic ACL pushes).
+`Rust` · `Tauri 2` · `evdev/uinput` · `Raw Input / HID` · `MIT`
 
-<br>
+---
 
-#### Secure Cloud Portal — Scratch Cryptography
-![Python](https://img.shields.io/badge/Pure_Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ChaCha20](https://img.shields.io/badge/Cipher-ChaCha20-0284c7?style=flat-square)
-![ElGamal](https://img.shields.io/badge/Asymmetric-ElGamal-059669?style=flat-square)
-![Zero Dependencies](https://img.shields.io/badge/Crypto-Zero%20Dependencies-64748b?style=flat-square)
+### 🧠 [CIPHER](https://github.com/lumidren/CIPHER) — SOC threat-intelligence platform
+Enriches IOCs through **VirusTotal** and **AbuseIPDB**, exports **STIX 2.1**, and renders a D3.js relationship graph, with Blowfish-encrypted caching.
+`Flask` · `Python` · `JavaScript` · `D3.js` · `STIX 2.1`
 
-A client-server secure communications portal written from scratch in Python with zero external cryptographic libraries:
-* **Symmetric Stream Cipher:** Handcrafted implementation of **ChaCha20** following RFC 7539 specifications (state matrix initialization, 20 rounds of column and diagonal quarter-round operations).
-* **Asymmetric Cryptosystem:** Implemented **ElGamal** over finite fields for key exchange, modular exponentiation, and prime-order subgroup operations.
+### 🤖 [CyberPulse SOC Suite](https://github.com/lumidren/CyberPulse-SOC-Suite) — automated SIEM/SOAR platform
+Detection, enrichment, and response with **MITRE ATT&CK** mapping and a live operations dashboard.
+`Python` · `SIEM` · `SOAR` · `MITRE ATT&CK`
 
-<br>
+### 🛰️ [ShadowSurface](https://github.com/lumidren/shadowsurface-recon-framework) — OSINT & attack-surface framework
+External recon and vulnerability auditing that produces clean, prioritized **HTML risk reports**.
+`Python` · `OSINT` · `Recon`
 
-#### SOC Simulation & Attack Analysis Labs
+### 🧪 [GUARDIAN](https://github.com/lumidren/Guardian) — explainable IoT anomaly detection *(thesis)*
+**Isolation Forest** over 60 network features on a **Raspberry Pi 4**, with natural-language summaries written for Tier-1 analysts.
+`Python` · `scikit-learn` · `Raspberry Pi`
+
+### 🎮 [Crystal Collector 2.0](https://github.com/lumidren/crystal-collector) — 3D cyberpunk arcade platformer
+Procedural biomes, companions, and a boss fight — built for the browser and packaged with Electron.
+`Three.js` · `React` · `WebGL` · `Electron`
+
+---
+
+## 🧰 Tech & tooling
+
+**SIEM / Monitoring**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-FF6600?style=flat-square)
+![QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-Hands-on investigation of 50+ enterprise attack scenarios across virtualized lab environments and TryHackMe paths:
-* Analyzed attack telemetry covering brute force, spear-phishing, Pass-the-Hash / PsExec lateral movement, and DNS exfiltration.
-* Authored custom Splunk SPL queries and tuned QRadar rule thresholds to filter baseline noise.
-* Correlated multi-stage alerts to MITRE ATT&CK Enterprise tactics and techniques.
+**Network & Telemetry**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E5332A?style=flat-square&logo=snort&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
-### 🛠️ Technical Matrix
+**Systems & Networking**
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **SIEM & Monitoring** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white) ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-C82127?style=flat-square&logo=fortinet&logoColor=white) ![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-C82127?style=flat-square&logo=fortinet&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
-| **Network & Telemetry** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Snort](https://img.shields.io/badge/Snort_IDS-211A4F?style=flat-square&logo=snort&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) `EVE-NG` |
-| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Systems & Platforms** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) `Active Directory` |
-| **Networking Protocols**| `TCP/IP` `Subnetting (VLSM)` `802.1Q VLANs` `OSPF` `BGP` `NAT` `IPSec VPN` `Dynamic ACLs` `AAA/RADIUS` |
-| **Security Frameworks** | `MITRE ATT&CK` `Cyber Kill Chain` `Diamond Model` `STIX 2.1` `Digital Forensics` |
-
----
-
-### 💼 Experience
-
-* **Student Intern — IT & Systems** · *Egypt-Japan University of Science & Technology (EJUST)*  
-  *(Aug 2026 – Present · Alexandria, Egypt)*  
-  Active Directory administration, campus network operations, and internal software integration. Developed an AI-powered Academic Advisor system and contributed to campus navigation architecture.
-
-* **SOC Summer Intern** · *Commercial International Bank (CIB Egypt)*  
-  *(Jun 2026 – Jul 2026 · Alexandria, Egypt)*  
-  Participated in enterprise banking Tier-1 SOC operations: monitored telemetry, triaged security alerts, analyzed log events across production SIEMs, and shadowed senior analysts on threat intelligence workflows.
+**Frameworks:** MITRE ATT&CK · Cyber Kill Chain · Diamond Model · STIX 2.1 · Digital Forensics
+**Networking:** TCP/IP · VLSM · 802.1Q VLANs · OSPF · BGP · NAT · IPSec VPN · AAA/RADIUS
 
 ---
 
-### 📜 Certifications & Training
+## 💼 Experience
 
-* **Fortinet:** Fortinet Certified Associate — FortiSIEM (2026) · FortiAnalyzer (2026)
-* **TryHackMe:** SOC Level 1 Path (2026) · Security Engineer Path (2026)
-* **Cisco:** Cybersecurity Engineer (DEPI, 2025) · CyberOps Associate (NTI, 2025) · CCNP ENCOR (NTI, 2025) · CCNA (NTI, 2023)
-* **Other:** Vulnerability Analyst & Penetration Tester (DEPI) · HCIA Security (Huawei/NTI) · Ethical Hacking (NTI)
+**Student Intern — IT & Systems**, EJUST · *Aug 2026 – present*
+Active Directory administration, campus network operations, and an AI-powered Academic Advisor system.
+
+**SOC Summer Intern**, CIB Egypt · *Jun 2026 – Jul 2026*
+Tier-1 SOC monitoring, alert triage, and log analysis in a live enterprise banking environment.
 
 ---
 
-<p align="center">
-  <sub><code>[ SYSTEM: OPERATIONAL ]</code> · <code>[ CLEARANCE: LEVEL-1 BLUE TEAM ]</code> · <code>[ STATUS: ACTIVE ]</code></sub>
-</p>
+## 📜 Certifications & training
+
+- **Fortinet** — FortiSIEM, FortiAnalyzer *(2026)*
+- **TryHackMe** — SOC Level 1, Security Engineer paths *(2026)*
+- **Cisco** — Cybersecurity Engineer (DEPI, 2025), CyberOps Associate (NTI, 2025), CCNP ENCOR (NTI, 2025), CCNA (NTI, 2023)
+- **Other** — Vulnerability Analyst & Penetration Tester (DEPI) · HCIA Security (Huawei/NTI) · Ethical Hacking (NTI)
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lumidren&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumidren&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
